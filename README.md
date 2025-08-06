@@ -1,2 +1,2 @@
 # Huzefa-Qazi
-My Portfolio Website
+My Portfolio Website using HTML,CSS and JavaScript
